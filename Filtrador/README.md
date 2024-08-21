@@ -16,7 +16,7 @@ O **Filtrador** é um aplicativo simples desenvolvido em Python que utiliza as b
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Filtrador.git
+   git clone https://github.com/markesjp/Python/tree/main/Filtrador.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
